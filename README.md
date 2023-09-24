@@ -1,5 +1,6 @@
 # Análise de Notas de Alunos da Terceira Série do Ensino Médio - Projeto de Balanço de Desempenho
 
+![notas](https://wakke.co/wp-content/uploads/2020/04/capa-artigo-3.png)
 Bem-vindo ao repositório do projeto de análise de notas de alunos da terceira série do ensino médio! Neste projeto, utilizamos dados reais de alunos de uma escola particular para examinar as notas obtidas ao final da primeira etapa letiva. Nosso principal objetivo foi realizar um balanço das notas a fim de identificar possíveis problemas de aprendizado entre os alunos. As informações coletadas foram posteriormente compartilhadas com a coordenação pedagógica, a fim de que medidas apropriadas pudessem ser tomadas para atender às necessidades dos alunos.
 
 ## Contexto
@@ -19,8 +20,8 @@ Os principais objetivos deste projeto foram:
 
 O repositório está organizado da seguinte forma:
 
-- **data**: Contém os dados brutos coletados das notas dos alunos, em formato apropriado (por exemplo, CSV, Excel).
-- **notebooks**: Este diretório abriga os Jupyter Notebooks utilizados durante o processo de análise de dados. Os notebooks foram nomeados de forma apropriada para refletir os passos da análise.
+- **data**: Contém os dados brutos coletados das notas dos alunos.
+- **notebook**: Este diretório abriga o Jupyter Notebook utilizado durante o processo de análise de dados. O notebook foi nomeado de forma apropriada para refletir os passos da análise.
 - **README.md**: O arquivo que você está lendo atualmente, fornecendo uma visão geral do projeto, suas motivações e uma orientação sobre como utilizar o repositório.
 
 ## Resultados
